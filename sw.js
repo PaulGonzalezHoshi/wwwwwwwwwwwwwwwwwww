@@ -9,7 +9,7 @@ const CACHE_NAME = 'v1_cache_PWA';
 let urlsToCache = [
     './',
     './Images/favicon.ico',
-    './Images/IMG-20240928-WA0007[1].jpg',
+    './Images/IMG-202.jpg',
     './Images/photo 16.jpg',
     './Images/photo 32.jpg',
     './Images/photo 64.jpg',
